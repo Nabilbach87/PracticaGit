@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PracticaGit_Nabil_Bachchaou": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

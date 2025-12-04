@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A2A584-5810-4A77-AABF-C22FB9391AF6}|PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj|c:\\users\\usuario\\documents\\practicasgit\\practicagit_nabil_bachchaou\\practicagit_nabil_bachchaou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A2A584-5810-4A77-AABF-C22FB9391AF6}|PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj|solutionrelative:practicagit_nabil_bachchaou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A2A584-5810-4A77-AABF-C22FB9391AF6}|PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj|c:\\users\\usuario\\documents\\practicasgit\\practicagit_nabil_bachchaou\\practicagit_nabil_bachchaou\\salutador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A2A584-5810-4A77-AABF-C22FB9391AF6}|PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj|solutionrelative:practicagit_nabil_bachchaou\\salutador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A2A584-5810-4A77-AABF-C22FB9391AF6}|PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj|c:\\users\\usuario\\documents\\practicasgit\\practicagit_nabil_bachchaou\\practicagit_nabil_bachchaou\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A2A584-5810-4A77-AABF-C22FB9391AF6}|PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj|solutionrelative:practicagit_nabil_bachchaou\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salutador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\Salutador.cs",
+              "RelativeDocumentMoniker": "PracticaGit_Nabil_Bachchaou\\Salutador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\Salutador.cs",
+              "RelativeToolTip": "PracticaGit_Nabil_Bachchaou\\Salutador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:48:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\Persona.cs",
+              "RelativeDocumentMoniker": "PracticaGit_Nabil_Bachchaou\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\Persona.cs",
+              "RelativeToolTip": "PracticaGit_Nabil_Bachchaou\\Persona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:47:38.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaGit_Nabil_Bachchaou\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\Program.cs",
+              "RelativeToolTip": "PracticaGit_Nabil_Bachchaou\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:46:56.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

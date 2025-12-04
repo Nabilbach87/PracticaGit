@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\bin\Debug\net8.0\PracticaGit_Nabil_Bachchaou.exe
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\bin\Debug\net8.0\PracticaGit_Nabil_Bachchaou.deps.json
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\bin\Debug\net8.0\PracticaGit_Nabil_Bachchaou.runtimeconfig.json
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\bin\Debug\net8.0\PracticaGit_Nabil_Bachchaou.dll
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\bin\Debug\net8.0\PracticaGit_Nabil_Bachchaou.pdb
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.dll
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\refint\PracticaGit_Nabil_Bachchaou.dll
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.pdb
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\PracticaGit_Nabil_Bachchaou.genruntimeconfig.cache
+C:\Users\Usuario\Documents\PracticasGit\PracticaGit_Nabil_Bachchaou\PracticaGit_Nabil_Bachchaou\obj\Debug\net8.0\ref\PracticaGit_Nabil_Bachchaou.dll

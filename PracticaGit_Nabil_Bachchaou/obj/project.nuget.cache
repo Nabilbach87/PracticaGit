@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xu5W2yWIuJ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\PracticasGit\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou\\PracticaGit_Nabil_Bachchaou.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
