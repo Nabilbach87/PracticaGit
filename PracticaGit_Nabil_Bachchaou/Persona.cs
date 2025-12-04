@@ -9,10 +9,11 @@ namespace PracticaGit_Nabil_Bachchaou
     public class Persona
     {
         public string Nom { get; set; }
-
-        public Persona(string nom)
+        public int Edat{ get; set;}
+        public Persona(string nom, int edat)
         {
             Nom = nom;
+            Edat = edat; 
         }
     }
 }
